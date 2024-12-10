@@ -1,4 +1,4 @@
-						Bytes<br> 
+						Bytes
 lua/fedhoria/modules/stumble_legs.lua		15670<br> 
 lua/entities/active_ragdoll_controller.lua	8470<br> 
 lua/fedhoria.lua				4784<br> 
